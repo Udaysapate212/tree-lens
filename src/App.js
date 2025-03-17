@@ -4,9 +4,9 @@ const App=() =>{
 
   return(
     <div>
-      <h1>Hey!!!</h1>
-      <h2>How are you !</h2>
-      <h2>-Uday Sapate</h2>
+      <h1>Tree-Lens</h1>
+      <h2>By- Uday Sapate</h2>
+      <h2>On-Testing</h2>
     </div>
   );
 }
